@@ -1,0 +1,590 @@
+[
+  {
+    "Title": "Account Executive",
+    "Normalized Title": "Account Executive"
+  },
+  {
+    "Title": "Account Executive - Identity & Access Management",
+    "Normalized Title": "Account Executive"
+  },
+  {
+    "Title": "Analyst",
+    "Normalized Title": "Analyst"
+  },
+  {
+    "Title": "Associate",
+    "Normalized Title": "Associate"
+  },
+  {
+    "Title": "Associate | Venture Capital",
+    "Normalized Title": "Associate"
+  },
+  {
+    "Title": "Associate Director",
+    "Normalized Title": "Associate Director"
+  },
+  {
+    "Title": "Associate Director, Real Estate",
+    "Normalized Title": "Associate Director"
+  },
+  {
+    "Title": "Associate, Compensation and Benefits",
+    "Normalized Title": "Associate, Compensation & Benefits"
+  },
+  {
+    "Title": "Board Member/Co-Founder",
+    "Normalized Title": "Founder || Board Member"
+  },
+  {
+    "Title": "Business Development Executive",
+    "Normalized Title": "Business Development Executive"
+  },
+  {
+    "Title": "Business Development Manager",
+    "Normalized Title": "Business Development Manager"
+  },
+  {
+    "Title": "CEO",
+    "Normalized Title": "Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "CEO & Managing Partner",
+    "Normalized Title": "Chief Executive Officer || Partner"
+  },
+  {
+    "Title": "CEO + Co-Founder",
+    "Normalized Title": "Founder || Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "CEO + Founder",
+    "Normalized Title": "Founder || Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "CEO | Co-founder",
+    "Normalized Title": "Founder || Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "CEO/President",
+    "Normalized Title": "Chief Executive Officer || President"
+  },
+  {
+    "Title": "CFO",
+    "Normalized Title": "Chief Financial Officer"
+  },
+  {
+    "Title": "Chief Executive Officer and Founder",
+    "Normalized Title": "Founder || Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "Chief Financial Officer",
+    "Normalized Title": "Chief Financial Officer"
+  },
+  {
+    "Title": "CMO",
+    "Normalized Title": "Chief Marketing Officer"
+  },
+  {
+    "Title": "Co Founder / CEO",
+    "Normalized Title": "Founder || Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "Co-Founder",
+    "Normalized Title": "Founder"
+  },
+  {
+    "Title": "Co-founder",
+    "Normalized Title": "Founder"
+  },
+  {
+    "Title": "Co-Founder & General Partner",
+    "Normalized Title": "Founder || Partner"
+  },
+  {
+    "Title": "Co-Founder + CEO",
+    "Normalized Title": "Founder || Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "Co-Founder + COO",
+    "Normalized Title": "Founder || Chief Operations Officer || COO"
+  },
+  {
+    "Title": "Co-Founder and CEO",
+    "Normalized Title": "Founder || Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "Co-Founder and General Partner",
+    "Normalized Title": "Founder || Partner"
+  },
+  {
+    "Title": "Co-founder and General Partner",
+    "Normalized Title": "Founder || Partner"
+  },
+  {
+    "Title": "Co-founder and Managing Partner",
+    "Normalized Title": "Founder || Partner"
+  },
+  {
+    "Title": "Co-Founder, CTO",
+    "Normalized Title": "Founder || Chief Technical Officer"
+  },
+  {
+    "Title": "Co-Founder, Head of Product",
+    "Normalized Title": "Founder || Head of Product"
+  },
+  {
+    "Title": "CoFounder and Chief Clinical Officer",
+    "Normalized Title": "Founder || Chief Clinical Officer"
+  },
+  {
+    "Title": "Collections Coordinator",
+    "Normalized Title": "Collections Coordinator"
+  },
+  {
+    "Title": "Content Marketing Manager",
+    "Normalized Title": "Content Marketing Manager"
+  },
+  {
+    "Title": "COO",
+    "Normalized Title": "Chief Operations Officer"
+  },
+  {
+    "Title": "Corporate Paralegal",
+    "Normalized Title": "Corporate Paralegal"
+  },
+  {
+    "Title": "Digital Marketing Lead",
+    "Normalized Title": "Digital Marketing Lead"
+  },
+  {
+    "Title": "Director",
+    "Normalized Title": "Director"
+  },
+  {
+    "Title": "Director of Business Development",
+    "Normalized Title": "Director of Business Development"
+  },
+  {
+    "Title": "Director of Revenue Operations",
+    "Normalized Title": "Director of Revenue Operations"
+  },
+  {
+    "Title": "Director of Sales",
+    "Normalized Title": "Director, Sales"
+  },
+  {
+    "Title": "Director, Demand Generation",
+    "Normalized Title": "Director, Demand Generation"
+  },
+  {
+    "Title": "Director, Early Stage Practice",
+    "Normalized Title": "Director, Early Stage Practice"
+  },
+  {
+    "Title": "Director, Global Sales & Partnerships",
+    "Normalized Title": "Director, Global Sales & Partnerships"
+  },
+  {
+    "Title": "Director, Product Marketing",
+    "Normalized Title": "Director, Product Marketing"
+  },
+  {
+    "Title": "Director, Revenue Operations",
+    "Normalized Title": "Director, Revenue Operations"
+  },
+  {
+    "Title": "Director, Valuation and Advisory Services",
+    "Normalized Title": "Director, Valuation and Advisory Services"
+  },
+  {
+    "Title": "Entrepreneur / Investor / Advisor",
+    "Normalized Title": "Investor"
+  },
+  {
+    "Title": "Executive Assistant",
+    "Normalized Title": "Executive Assistant"
+  },
+  {
+    "Title": "Executive Director",
+    "Normalized Title": "Executive Director"
+  },
+  {
+    "Title": "Executive Recruiter",
+    "Normalized Title": "Executive Recruiter"
+  },
+  {
+    "Title": "Financial Analyst",
+    "Normalized Title": "Financial Analyst"
+  },
+  {
+    "Title": "Founder",
+    "Normalized Title": "Founder"
+  },
+  {
+    "Title": "Founder & CEO",
+    "Normalized Title": "Founder || Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "Founder & General Partner",
+    "Normalized Title": "Founder || Partner"
+  },
+  {
+    "Title": "Founder & Investor",
+    "Normalized Title": "Founder || Investor"
+  },
+  {
+    "Title": "Founder + CEO",
+    "Normalized Title": "Founder || Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "Founder and CEO",
+    "Normalized Title": "Founder || Chief Executive Officer || CEO"
+  },
+  {
+    "Title": "Founder, General Partner",
+    "Normalized Title": "Founder || Partner"
+  },
+  {
+    "Title": "Founding General Partner",
+    "Normalized Title": "Founder || Partner"
+  },
+  {
+    "Title": "Future",
+    "Normalized Title": "Future"
+  },
+  {
+    "Title": "General Partner",
+    "Normalized Title": "Partner"
+  },
+  {
+    "Title": "GM, Americas East",
+    "Normalized Title": "General Manager || GM"
+  },
+  {
+    "Title": "Graduate Shift Manager",
+    "Normalized Title": "Graduate Shift Manager"
+  },
+  {
+    "Title": "Guest Lecturer, Entrepreneurial Management",
+    "Normalized Title": "Guest Lecturer"
+  },
+  {
+    "Title": "Head of Demand Generation & Revenue Operations",
+    "Normalized Title": "Head of Demand Generation || Head of Revenue Operations"
+  },
+  {
+    "Title": "Head of Global Partnerships",
+    "Normalized Title": "Head of Partnerships"
+  },
+  {
+    "Title": "Head of Global Revenue Operation",
+    "Normalized Title": "Head of Revenue Operations"
+  },
+  {
+    "Title": "Head of Growth",
+    "Normalized Title": "Head of Growth"
+  },
+  {
+    "Title": "Head Of Partnerships",
+    "Normalized Title": "Head of Partnerships"
+  },
+  {
+    "Title": "Head of Revenue Operations",
+    "Normalized Title": "Head of Revenue Operations"
+  },
+  {
+    "Title": "Head of Revenue Operations",
+    "Normalized Title": "Head of Revenue Operations"
+  },
+  {
+    "Title": "Head of Revenue Operations and Strategy",
+    "Normalized Title": "Head of Revenue Operations || Head of Strategy"
+  },
+  {
+    "Title": "Head or User Experience and Design",
+    "Normalized Title": "Head of User Experience || Head of Design"
+  },
+  {
+    "Title": "Investment Associate",
+    "Normalized Title": "Investment Associate"
+  },
+  {
+    "Title": "Investor",
+    "Normalized Title": "Investor"
+  },
+  {
+    "Title": "Customer Education Manager",
+    "Normalized Title": "Customer Education Manager"
+  },
+  {
+    "Title": "Legal Fellow",
+    "Normalized Title": "Legal Fellow"
+  },
+  {
+    "Title": "Manager - Digital Marketing & Operations",
+    "Normalized Title": "Manager, Digital Marketing || Manager, Operations || Digital Marketing Manager || Operations Manager"
+  },
+  {
+    "Title": "Managing Director",
+    "Normalized Title": "Managing Director"
+  },
+  {
+    "Title": "Managing Director & Founder",
+    "Normalized Title": "Managing Director || Founder"
+  },
+  {
+    "Title": "Managing Partner",
+    "Normalized Title": "Managing Partner"
+  },
+  {
+    "Title": "Managing Partner and co-founder",
+    "Normalized Title": "Managing Partner || Founder"
+  },
+  {
+    "Title": "Marketing",
+    "Normalized Title": "Marketing"
+  },
+  {
+    "Title": "Marketing Technology Product Consultant",
+    "Normalized Title": "Marketing Product Consultant || Marketing Technology Consultant"
+  },
+  {
+    "Title": "MBA Associate",
+    "Normalized Title": "MBA Associate"
+  },
+  {
+    "Title": "MBA Candidate",
+    "Normalized Title": "MBA Candidate"
+  },
+  {
+    "Title": "MD",
+    "Normalized Title": "Managing Director"
+  },
+  {
+    "Title": "Office Manager | EA To The Founders | Ops Team",
+    "Normalized Title": "Office Manager || Executive Assistant || Executive Assistant to CEO|| Operations Assistant `"
+  },
+  {
+    "Title": "Operating Partner",
+    "Normalized Title": "Partner"
+  },
+  {
+    "Title": "Operations Lead",
+    "Normalized Title": "Operations Lead"
+  },
+  {
+    "Title": "Paralegal",
+    "Normalized Title": "Paralegal"
+  },
+  {
+    "Title": "Partner",
+    "Normalized Title": "Partner"
+  },
+  {
+    "Title": "Partner - Technology Companies Group",
+    "Normalized Title": "Technology Partner || Partner of Technology"
+  },
+  {
+    "Title": "Partner, Cybersecurity and Data Privacy Practice",
+    "Normalized Title": "Cybersecurity Partner || Partner of Cybersecurity and Data || Data Privacy Practice Partner"
+  },
+  {
+    "Title": "Partnerships",
+    "Normalized Title": "Partnerships"
+  },
+  {
+    "Title": "PR & Content",
+    "Normalized Title": "Public Relations || Public Relations and Content"
+  },
+  {
+    "Title": "President & CEO, Founder",
+    "Normalized Title": "President || Chief Executive Officer || Founder"
+  },
+  {
+    "Title": "Principal",
+    "Normalized Title": "Principal"
+  },
+  {
+    "Title": "Principal Creative Director",
+    "Normalized Title": "Principal Creative Director || Creative Principal Director"
+  },
+  {
+    "Title": "Product Marketing",
+    "Normalized Title": "Product Marketing"
+  },
+  {
+    "Title": "Program Manager",
+    "Normalized Title": "Product Manager"
+  },
+  {
+    "Title": "Regional Director",
+    "Normalized Title": "Regional Director"
+  },
+  {
+    "Title": "Regional Director, PWA and Financial Advisor, RJFS",
+    "Normalized Title": "Regional Director || Private Wealth Advisor || Financial Advisor || Financial Services"
+  },
+  {
+    "Title": "Revenue Strategy and Operations",
+    "Normalized Title": "Revenue Strategy || Revenue Operations"
+  },
+  {
+    "Title": "Sales",
+    "Normalized Title": "Sales"
+  },
+  {
+    "Title": "Sales Development Representative",
+    "Normalized Title": "Sales Development Representative || Sales Representative"
+  },
+  {
+    "Title": "Senior Account Manager, Automotive",
+    "Normalized Title": "Senior Account Manager || Automotive Senior Account Manager"
+  },
+  {
+    "Title": "Senior Associate",
+    "Normalized Title": "Senior Associate"
+  },
+  {
+    "Title": "Senior Business Development Executive",
+    "Normalized Title": "Senior Business Development Executive"
+  },
+  {
+    "Title": "Senior Director, Business Development",
+    "Normalized Title": "Senior Director, Business Development"
+  },
+  {
+    "Title": "Senior Director, Sales Strategy",
+    "Normalized Title": "Senior Director, Sales Strategy"
+  },
+  {
+    "Title": "Senior Enterprise Account Executive",
+    "Normalized Title": "Senior Enterprise Account Executive || Senior Account Executive"
+  },
+  {
+    "Title": "Senior Manager, Global Sales Operations",
+    "Normalized Title": "Senior Manager || Global Sales Manager || Sales Operations Manager || Senior Sales Manager"
+  },
+  {
+    "Title": "Senior Managing Director",
+    "Normalized Title": "Senior Managing Director"
+  },
+  {
+    "Title": "Senior Product Lead",
+    "Normalized Title": "Senior Product Lead"
+  },
+  {
+    "Title": "Senior Software Engineer",
+    "Normalized Title": "Senior Software Engineer"
+  },
+  {
+    "Title": "Senior Tax Accountant",
+    "Normalized Title": "Senior Tax Accountant"
+  },
+  {
+    "Title": "Senior Vice President",
+    "Normalized Title": "Senior Vice President"
+  },
+  {
+    "Title": "Senior Vice President - Enterprise Improvement",
+    "Normalized Title": "Senior Vice President of Enterprise Improvement"
+  },
+  {
+    "Title": "Senior Wealth Strategy Associate",
+    "Normalized Title": "Senior Wealth Strategy Associate"
+  },
+  {
+    "Title": "Senior Writer",
+    "Normalized Title": "Senior Writer"
+  },
+  {
+    "Title": "Software & Product Development",
+    "Normalized Title": "Software and Product Development || Software Development || Product Development"
+  },
+  {
+    "Title": "Software Engineer",
+    "Normalized Title": "Software Engineer"
+  },
+  {
+    "Title": "Sr. Director of Sales",
+    "Normalized Title": "Senior Director of Sales"
+  },
+  {
+    "Title": "Sr. Director, Business Development & Partnerships",
+    "Normalized Title": "Sr. Director, Business Development || Sr. Director, Partnerships"
+  },
+  {
+    "Title": "SVP Accelerators",
+    "Normalized Title": "Senior Vice President || Senior Vice President of Accelerators"
+  },
+  {
+    "Title": "SVP, Sales Operations",
+    "Normalized Title": "Senior Vice President of Sales Operations"
+  },
+  {
+    "Title": "Syndicate Lead",
+    "Normalized Title": "Syndicate Lead"
+  },
+  {
+    "Title": "Tax Attorney, SALT Manager",
+    "Normalized Title": "Tax Attorney || State and Local Tax Manager"
+  },
+  {
+    "Title": "Technology CMO & Entrepreneur, Startup Advisor & Investor, VP Marketing",
+    "Normalized Title": "CMO || VP, Marketing"
+  },
+  {
+    "Title": "VC",
+    "Normalized Title": "Venture Capital"
+  },
+  {
+    "Title": "Venture Capital Investor",
+    "Normalized Title": "Venture Capital Investor"
+  },
+  {
+    "Title": "Vice President",
+    "Normalized Title": "Vice President"
+  },
+  {
+    "Title": "Vice President of Business Operations",
+    "Normalized Title": "VP, Business Operations"
+  },
+  {
+    "Title": "Vice President Sales",
+    "Normalized Title": "VP, Sales"
+  },
+  {
+    "Title": "Vice President, Global Revenue Operations",
+    "Normalized Title": "VP, Revenue Operations"
+  },
+  {
+    "Title": "VP Revenue Operations",
+    "Normalized Title": "VP, Revenue Operations"
+  },
+  {
+    "Title": "VP Sales, Eastern Region",
+    "Normalized Title": "VP, Sales"
+  },
+  {
+    "Title": "VP, Commercial Development",
+    "Normalized Title": "VP, Commercial Development"
+  },
+  {
+    "Title": "VP, Intelligence Unit",
+    "Normalized Title": "VP, Intelligence Unit"
+  },
+  {
+    "Title": "VP, Marketing",
+    "Normalized Title": "VP, Marketing"
+  },
+  {
+    "Title": "VP, Product Marketing",
+    "Normalized Title": "VP, Product Marketing"
+  },
+  {
+    "Title": "VP, Revenue Operations",
+    "Normalized Title": "VP, Revenue Operations"
+  },
+  {
+    "Title": "VP, Sales",
+    "Normalized Title": "VP, Sales"
+  }
+]
